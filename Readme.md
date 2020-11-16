@@ -5,4 +5,4 @@ Deployed into Azure
 
 The app available here: [ToDo-App](https://todolistkm.azurewebsites.net/)
 
-![](todoapp.jpg)
+![](todoapp.JPG)
