@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/e2fb7acc-0ff4-4409-b753-ac3f7ae1232d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/keunmo-nodejs"
+}
